@@ -1,2 +1,2 @@
-#��ĻDemo
+﻿#弹幕Demo
 complete.
